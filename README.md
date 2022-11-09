@@ -8,7 +8,7 @@
 -   Artificial Intelligence
 -   Deep Learning
 
-"Perfect is the enemy of good" - Voltaire
+"Perfect is the enemy of good." - Voltaire
 
 
 <!---
