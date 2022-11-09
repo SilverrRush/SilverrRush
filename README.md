@@ -8,6 +8,8 @@
 -   Artificial Intelligence
 -   Deep Learning
 
+"Perfect is the enemy of good"
+
 
 <!---
 SilverrRush/SilverrRush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
